@@ -1,0 +1,26 @@
+body{
+    background: gray;
+}
+h2{
+    text-shadow: 10px 5px 10px gold;
+background: green; color: red;
+letter-spacing: 7px;
+word-spacing: 13px;
+line-height: 50px;
+text-align: justify;
+text-transform: capitalize;
+text-decoration: overline;
+font-size: 12px;
+font-weight: 100px;
+font-style: italic;
+font-family:'Courier New', Courier, monospace
+}
+a{
+    text-decoration: overline;
+    color: greenyellow
+}
+h3{
+    text-shadow: -10px -7px -15px blue;
+    background: white; 
+    color: red;
+}

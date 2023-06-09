@@ -1,0 +1,18 @@
+.img{
+    width: 100%;
+}
+.theimg{
+    height: 50px;
+    width: 50px;
+    display: inline-block;
+}
+
+li{
+    display: inline-block;
+}
+.themenu{
+    display: inline-block;
+}
+.theicon{
+    display: inline-block;
+}

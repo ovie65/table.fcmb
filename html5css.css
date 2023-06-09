@@ -1,0 +1,160 @@
+title{
+    color: red;
+}
+p{
+    background-color: red;
+}
+body{
+    background-image: url(cruelsun.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+h1{
+    color: white;
+    width: 400px;
+    height: 400px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(escarnor.jpg);
+    background-attachment: scroll;
+}
+h2{
+    color: white;
+    background-color: black;
+    width: 150px;
+    height: 100px;
+   /* margin-top: 70px;
+    margin-right: 70px;
+    margin-bottom: 70px;
+    margin-left: 70px;*/
+    margin: 70px 70px 70px 70px;
+    padding: 20px 20px 20px 20px;
+    /*border-width: 3px;
+    border-style: double;
+    color: black;*/
+    /*border: 3px double black;*/
+    border-right: 10px solid red;
+    border-bottom: 10px double forestgreen;
+    border-top: 10px double blue;
+    border-left: 10px solid purple;
+    box-shadow:0px 0px 50px black;
+}
+h3{
+    color: white;
+    width: 350px;
+    height: 200px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-image: url(sharingan.png);
+    background-attachment: scroll;
+    border-right: 10px solid red;
+    border-bottom: 10px double forestgreen;
+    border-top: 10px double blue;
+    border-left: 10px solid purple;
+}
+input{
+    outline: none;
+    border: 2px double green
+}
+button{
+    height: 100px;
+    width: 70px;
+    background: rgba(128, 0, 128, 0.3);
+    color: white;
+    border: none;
+    border-radius: 0px 10px 0px 10px;
+    box-shadow: 10px 10px 10px black;
+}
+a:link{
+    color:black;
+}
+a:active{
+    color: gold;
+}
+a:visited{
+    color:red;
+}
+a:hover{
+    color:yellow;
+}
+ol{
+    background-color: red;
+    color:white;
+    list-style-type: square;
+}
+table{
+    border: 5px solid yellow;
+    background-color: yellow;
+
+}
+
+td{
+    border: 1px solid black;
+    box-shadow: inset 0px 0px 3px 3px black
+}
+
+tr{
+    border: 1px solid black;
+    box-shadow: inset 0px 0px 3px 3px black
+}
+tr:nth-child(odd) td:nth-child(odd){
+    background: red;
+}
+tr:nth-child(odd) td:nth-child(even){
+    background: rgb(17, 184, 39);
+}
+tr:nth-child(even) td:nth-child(odd){
+    background: rgb(17, 184, 39);;
+}
+tr:nth-child(even) td:nth-child(even){
+    background: red;
+    
+}
+
+
+
+
+img{
+    table-layout: auto;
+}
+
+input[type="text"]{
+    accent-color: white;
+    background-color: red;
+    padding: 6px;
+} 
+ /* div.wizardking{
+    background-color: blue;
+    color: red; */
+
+
+.g1{
+    color: red;
+}
+.g2{
+    color: green;
+}
+.g3{
+    color: blue;
+}
+.g4{
+    color: orange;
+}
+.g5{
+    color: black;
+}
+.g6{
+    color: gold;
+}
+
+img{
+    height: 200px;
+    width: 350px;
+    float: right;
+    margin-left: 10px;
+}
+i{
+    color: red;
+    size: 20px;
+}

@@ -1,0 +1,236 @@
+img{
+    width: 100%;
+}
+.img1{
+    width: 100px;
+    height: 100px;
+    margin-left: 60px;
+}
+li{
+    display: inline-block;
+    margin: 3px;
+    color: purple;
+    
+
+}
+.menu{
+    text-align: center;
+}
+
+.onbank{
+    background-color: gold;
+    display: inline-block;
+    margin-right: 950px;
+    width: 200px;
+
+}
+.online{
+    background-color: purple;
+}
+.icon1{
+    display: inline-block;
+}
+.stroke{
+    border-left: 3px solid gold;
+    margin-right: 1050px;
+}
+#clickin{
+    position: relative;
+    bottom: 20px;
+    left: 9px;
+}
+p{
+    text-align: left;
+    margin-right: 100px;
+    
+}
+h2{
+    text-align: left;
+}
+.id{
+    color: grey;
+    margin-right: 650px;
+}
+.session{
+    color: red;
+    margin-right: 715px
+}
+.name{
+    margin-right: 850px
+}
+.pass{
+margin-right: 865px;
+}
+.mainbox{
+    border-left:4px solid purple ;
+    border-right:4px solid purple ;
+    border-bottom:55px solid purple ;
+    border-top:6px solid purple ;
+    height: 250px;
+    width: 350px;
+}
+.check{
+    margin-right: 123px;
+}
+button{
+    width: 75px;
+    height: 30px;
+    background-color: orange;
+    margin-right: 50px;
+}
+#clickin{
+    color: rgb(109, 189, 193);
+    margin-bottom: 6px;
+    
+
+}
+.butt{
+    margin-right: 155px;
+    
+}
+img{
+    width: 100%;
+}
+.image2{
+    width: 300px;
+    height: 300px;
+    display: inline-block;
+    position: relative;
+    bottom: 300px;
+    right: 70px;
+
+}
+.lastbox{
+    background-color: rgb(214, 214, 214);
+    width: 400px;
+    height: 320px;
+    text-align: left;
+    margin-left: 850px;
+    position: relative;
+    bottom: 610px;
+    right: 70px;
+    
+    
+
+    
+    
+}
+h3{
+    text-align: left;
+    margin-right: 50px;
+    position: relative;
+    bottom: 35px;
+}
+#love{
+    margin-left: 300px;
+    background: orange;
+    width: 100px;
+    height: 40px;
+    position: relative;
+    top: 20px;
+    right: 20px;
+    
+}
+
+.longbox{
+    background-color: goldenrod;
+    width: 120px;
+    height: 130px;
+    display: inline-block;
+    position: relative;
+    bottom: 617px;
+    left: 200px;
+    
+    
+}
+#houseicon{
+    display: inline-block;
+    position: relative;
+    bottom: 600px;
+    right: -197px;
+    border-top: 1px inset black;
+    border-right: 1px inset black;
+    border-bottom: 1px inset black;
+    height: 130px;
+    width: 800px;
+    color: rgb(15, 127, 212);
+    
+    
+}
+#mouseicon{
+    display: inline-block;
+    position: relative;
+    bottom: 760px;
+    right: -220px;
+    color: rgb(15, 127, 212);
+}
+#phoneicon{
+    position: relative;
+    bottom: 900px;
+    right: -990px;
+    color: rgb(15, 127, 212);
+}
+#contact{
+    position: relative;
+    bottom: 888px;
+    left: 930px;
+    color: rgb(15, 127, 212);
+}
+#iconsss{
+    position: relative;
+    bottom: 920px;
+    left: 1130px;
+    color: rgb(15, 127, 212);
+}
+#lastone{
+    background-color: rgb(130, 127, 127);
+    position: relative;
+    bottom: 845px;
+    left: 80px;
+
+    
+}
+.g2{
+    position: relative;
+    left: 345px;
+    font-size: 35px;
+}
+.r3{
+    font-size: 35px;
+}
+.g5{
+    font-size: 35px;
+}
+.g7{
+    font-size: 35px;
+}
+.g1{
+    font-size: 35px;
+    position: relative;
+    right: 70px;
+}
+.g9{
+    font-size: 35px;
+    position: relative;
+    right: 70px;
+}
+.g3{
+    font-size: 35px;
+    position: relative;
+    right: 70px;
+}
+.f3{
+    font-size: 35px;
+    position: relative;
+    right: 70px;
+}
+.f9{
+    font-size: 35px;
+    position: relative;
+    right: 70px;
+}
+
+
+
+
+
